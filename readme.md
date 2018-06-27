@@ -5,7 +5,7 @@
 * HAProxy
 * Nginx
 
-## BenchMark
+## QOS Benchmark
 ![BenchMark](benchmark.png)
 
 ## API
